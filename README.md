@@ -40,7 +40,7 @@ Plataforma de CRUD de produtos.
 $ git clone https://github.com/Joao-Augusto-Oliveira/james
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd desafio-front-end
+$ cd james
 
 # Instale as dependências
 $ npm install
